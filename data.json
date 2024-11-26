@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "image_url": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "john.doe@example.com",
+      "phone": "+1-202-555-0101"
+    },
+    {
+      "name": "Jane Smith",
+      "image_url": "https://randomuser.me/api/portraits/women/1.jpg",
+      "email": "jane.smith@example.com",
+      "phone": "+1-202-555-0112"
+    },
+    {
+      "name": "Michael Brown",
+      "image_url": "https://randomuser.me/api/portraits/men/2.jpg",
+      "email": "michael.brown@example.com",
+      "phone": "+1-202-555-0123"
+    },
+    {
+      "name": "Emily Davis",
+      "image_url": "https://randomuser.me/api/portraits/women/2.jpg",
+      "email": "emily.davis@example.com",
+      "phone": "+1-202-555-0134"
+    },
+    {
+      "name": "Chris Wilson",
+      "image_url": "https://randomuser.me/api/portraits/men/3.jpg",
+      "email": "chris.wilson@example.com",
+      "phone": "+1-202-555-0145"
+    },
+    {
+      "name": "Sophia Garcia",
+      "image_url": "https://randomuser.me/api/portraits/women/3.jpg",
+      "email": "sophia.garcia@example.com",
+      "phone": "+1-202-555-0156"
+    },
+    {
+      "name": "Daniel Martinez",
+      "image_url": "https://randomuser.me/api/portraits/men/4.jpg",
+      "email": "daniel.martinez@example.com",
+      "phone": "+1-202-555-0167"
+    },
+    {
+      "name": "Isabella Rodriguez",
+      "image_url": "https://randomuser.me/api/portraits/women/4.jpg",
+      "email": "isabella.rodriguez@example.com",
+      "phone": "+1-202-555-0178"
+    },
+    {
+      "name": "James Lee",
+      "image_url": "https://randomuser.me/api/portraits/men/5.jpg",
+      "email": "james.lee@example.com",
+      "phone": "+1-202-555-0189"
+    },
+    {
+      "name": "Mia Hernandez",
+      "image_url": "https://randomuser.me/api/portraits/women/5.jpg",
+      "email": "mia.hernandez@example.com",
+      "phone": "+1-202-555-0190"
+    }
+  ]
+  
